@@ -23,7 +23,7 @@ from sklearn.metrics import (
 st.set_page_config(page_title="BITS V-Lab Assignment Pipeline", layout="wide")
 
 st.title("📊 Benchmarking Suite for All 5 ML Classification Models")
-st.caption("Fulfilling BITS Virtual Lab Evaluation Assignment Framework | Dataset Parameters: 14 Features, 600 Instances")
+
 
 # 2. Compliant Synthetic Dataset Generation Pipeline
 @st.cache_data
