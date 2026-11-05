@@ -82,7 +82,7 @@ with tab1:
         data=csv_bytes,
         file_name="test_data.csv",
         mime="text/csv"
-----
+
     )
 
 # TAB 2: Specific Inspector Breakdown view
